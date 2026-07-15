@@ -1,5 +1,3 @@
-ROY PRATIK
-
 ## React Client Application Routes
 
 - Route `/`: Home page displaying the available sandwich sizes, ingredients, dressings, and current dynamic sandwich availability limits.
