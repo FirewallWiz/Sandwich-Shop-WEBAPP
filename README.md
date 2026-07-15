@@ -1,6 +1,6 @@
 # 🥪 FirewallWiz Sandwich Shop
 
-A full-stack web application built for the Web Applications II Exam. This project is a complete sandwich ordering system featuring a dynamic custom sandwich configurator, real-time inventory management, a digital wallet credit system, and robust security featuring Two-Factor Authentication (TOTP).
+This project is a complete sandwich ordering system featuring a dynamic custom sandwich configurator, real-time inventory management, a digital wallet credit system, and robust security featuring Two-Factor Authentication (TOTP).
 
 ---
 
