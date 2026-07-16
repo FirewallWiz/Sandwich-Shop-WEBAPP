@@ -90,12 +90,12 @@ The TOTP Secret for all users is: `LXBSMDTMSP2I5XFXIYRGFVWSFI`
 ##  Setup & Installation
 
 1. **Install Dependencies:**
-   - In the `server/` directory: run `npm install`
-   - In the `client/` directory: run `npm install`
+   - In the `server/` directory: run `npm ci`
+   - In the `client/` directory: run `npm ci`
 
 2. **Initialize Database:**
    - In the `server/` directory, run: `node init-db.mjs`
 
 3. **Start the Application:**
-   - Start the server: `npm run dev` (inside `server/`)
+   - Start the server: `nodemon index.mjs` (inside `server/`)
    - Start the client: `npm run dev` (inside `client/`)
