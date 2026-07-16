@@ -54,7 +54,7 @@ The backend is built with Express.js and interfaces with an SQLite database usin
 
 ---
 
-## 🗄️ Database Schema (SQLite)
+##  Database Schema (SQLite)
 
 The database is highly relational to support complex order configurations:
 
